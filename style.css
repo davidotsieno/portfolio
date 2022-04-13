@@ -1,0 +1,14 @@
+@media (max-width: 720px) {
+    #navbar {
+        display: flex;
+    }
+}
+
+#welcome-section {
+    height: 100vh;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+}
